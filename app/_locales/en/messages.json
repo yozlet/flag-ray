@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "flagray",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "flagray",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "See through the page to your flags!",
+    "description": "The description of the application"
+  }
+}
